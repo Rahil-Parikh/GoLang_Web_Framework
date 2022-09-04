@@ -1,5 +1,6 @@
-# GoLang_Web_Framework #
-Contains GraphQL golang app using [gqlgen]("https://github.com/99designs/gqlgen") and RESTful golang app using [gin-gonic]("https://github.com/gin-gonic/gin")
+[![forthebadge made-with-go](http://ForTheBadge.com/images/badges/made-with-go.svg)](https://go.dev/)
+<span><h2 align="center">GoLang_Web_Framework </h2></span>
+Contains GraphQL golang app using [gqlgen](https://github.com/99designs/gqlgen) and RESTful golang app using [gin-gonic](https://github.com/gin-gonic/gin)
 
 #### This is a project for login authentication with following funtionalities: ####
 1. Encrypted JWT for login 
