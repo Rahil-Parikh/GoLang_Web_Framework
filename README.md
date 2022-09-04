@@ -1,4 +1,4 @@
-[![](https://img.shields.io/badge/Made_with-Go-blue?style=for-the-badge&logo=Go)]( https://go.dev/ "GoLang")[![](https://img.shields.io/badge/GraphQL-black?style=for-the-badge&logo=GraphQL&&logoColor=pink)]( https://graphql.org/ "GraphQL")
+[![](https://img.shields.io/badge/Made_with-Go-blue?style=for-the-badge&logo=Go)]( https://go.dev/ "GoLang")[![](https://img.shields.io/badge/GraphQL-black?style=for-the-badge&logo=GraphQL&&logoColor=pink)]( https://graphql.org/ "GraphQL")[![](https://img.shields.io/badge/Redis-red?style=for-the-badge&logo=Redis&&logoColor=white)]( https://redis.io/ "Redis")
 
 <span><h2 align="center">GoLang Web Framework </h2></span>
 Contains GraphQL golang app using [gqlgen](https://github.com/99designs/gqlgen) and RESTful golang app using [gin-gonic](https://github.com/gin-gonic/gin)
